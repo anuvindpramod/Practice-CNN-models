@@ -1,1 +1,1 @@
-This repo contains all the CNN models I created
+This repo contains all the rough or practice CNN models I created
